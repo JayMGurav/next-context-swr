@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Managing your data using context, so as to access it easily across pages without need to query for it everytime.
 
 ## Getting Started
 
